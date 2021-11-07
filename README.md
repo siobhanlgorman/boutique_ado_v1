@@ -15,4 +15,5 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 
 ![](screenshots/has_sizes.png)
 
+4. Mixed up urls home and products when copy pasting so had them reversed
 
