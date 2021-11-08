@@ -17,3 +17,5 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 
 4. Mixed up urls home and products when copy pasting so had them reversed
 
+5. Categories badges not displaying below header. For loop not being read at all. No errors in terminal. Used print() statements to see that loop being missed and print {% current_categories %} raised an error page. Solved: Was missing  _ in current_categories in views.py
+
