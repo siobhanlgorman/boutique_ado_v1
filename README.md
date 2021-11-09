@@ -23,3 +23,5 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 
 7. Template does not exist - twice have created template directly in templates folder with subfolder within templates e.g products
 
+8. Error removing products - POST error Jquery - but was missing import HTTPresponse in bag/views.py
+
