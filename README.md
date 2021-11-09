@@ -21,5 +21,5 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 
 6. Error - bag.html - bag template does not exist in bag/bag.html. Solved forgot to create another bag folder inside bag/templates
 
-7. 
+7. Template does not exist - twice have created template directly in templates folder with subfolder within templates e.g products
 
