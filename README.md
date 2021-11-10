@@ -25,3 +25,5 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 
 8. Error removing products - POST error Jquery - but was missing import HTTPresponse in bag/views.py
 
+9. Toasts - aall showing except the one for empty search field. Also noticed error { block.super } showing on site when searched e.g. zzzzzzzzzz Fixed - found missing {} around block.super --> {{ block.super }}
+
