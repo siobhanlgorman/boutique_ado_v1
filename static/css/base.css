@@ -118,6 +118,7 @@ input[name='q']::placeholder {
 
 /* ------------------------------- bootstrap toasts */
 /* high z index so always on top */
+
 .message-container {
     position: fixed;
     top: 72px;
