@@ -27,3 +27,5 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 
 9. Toasts - aall showing except the one for empty search field. Also noticed error { block.super } showing on site when searched e.g. zzzzzzzzzz Fixed - found missing {} around block.super --> {{ block.super }}
 
+10. Would not load checkout form but no errors - forgot to add url to href in bag.html. The incorrect syntax of checkout template not found. Corrected syntax but still error until shut server and restarted
+
