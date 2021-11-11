@@ -29,3 +29,4 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 
 10. Would not load checkout form but no errors - forgot to add url to href in bag.html. The incorrect syntax of checkout template not found. Corrected syntax but still error until shut server and restarted
 
+11. Authentication error - API key you have not done API key - fix must do the two export commands then runservr commands in same terminal straight after
