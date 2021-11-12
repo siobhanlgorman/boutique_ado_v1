@@ -34,3 +34,11 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 12 Webhooks test 
 
 ![](screenshots/webhook_failed.png)
+
+fixed in webhooks.py payment_intent_failed should have been payment_intent_payment_failed
+
+13 Stripe 14 - wh bad request
+payment went through but wh/bad request
+
+14 split?
+![](screenshots/split.png)
