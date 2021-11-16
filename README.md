@@ -49,4 +49,6 @@ payment went through but wh/bad request - export keys??
 
 17. operational error at bad/add/14 database is locked - just waited - maybe still loading
 
-18. userprofile was not attached by webhook when form commented out. Had added user profile to while loop instead of try line 91
+18. userprofile was not attached by webhook when form commented out. Fix- Had added user profile to while loop instead of try line 91 webhook handler
+
+19. bad header error when trying to send confirmation emails 'header values can't contain new lines' header 'subject' Fix had extra line after content in email_subject.txt
