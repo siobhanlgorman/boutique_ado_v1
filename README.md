@@ -46,3 +46,5 @@ payment went through but wh/bad request - export keys??
 15. operational error no such column userprofile Profile App part 5 - fix needed to migrate but I don't think Chris did??
 
 16. country field label appearing in form - fix - lines 33/34 of forms.py (profile) were not indented self.filds etc
+
+17. operational error at bad/add/14 database is locked - just waited - maybe still loading
