@@ -38,7 +38,11 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 fixed in webhooks.py payment_intent_failed should have been payment_intent_payment_failed
 
 13 Stripe 14 - wh bad request
-payment went through but wh/bad request
+payment went through but wh/bad request - export keys??
 
 14 split?
-![](screenshots/split.png)
+![](screenshots/split.png) - fix export all keys??
+
+15. operational error no such column userprofile Profile App part 5 - fix needed to migrate but I don't think Chris did??
+
+16. country field label appearing in form - fix - lines 33/34 of forms.py (profile) were not indented self.filds etc
