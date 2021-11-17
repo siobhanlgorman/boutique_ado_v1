@@ -55,3 +55,6 @@ payment went through but wh/bad request - export keys??
 
 20. EVERYTHING broke when tried to delete test products Finishing adding product functionalilty video. Can't even get into site. Went back to Product form video to retrace steps
 ![](screenshots/delete_products.png)
+
+21. deployment part 2 
+![](screenshots/deployment_error.png)
