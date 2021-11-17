@@ -25,7 +25,7 @@ download from here(https://github.com/ckz8780/boutique_ado_v1)
 
 8. Error removing products - POST error Jquery - but was missing import HTTPresponse in bag/views.py
 
-9. Toasts - aall showing except the one for empty search field. Also noticed error { block.super } showing on site when searched e.g. zzzzzzzzzz Fixed - found missing {} around block.super --> {{ block.super }}
+9. Toasts - all showing except the one for empty search field. Also noticed error { block.super } showing on site when searched e.g. zzzzzzzzzz Fixed - found missing {} around block.super --> {{ block.super }}
 
 10. Would not load checkout form but no errors - forgot to add url to href in bag.html. The incorrect syntax of checkout template not found. Corrected syntax but still error until shut server and restarted
 
@@ -45,7 +45,7 @@ payment went through but wh/bad request - export keys??
 
 15. operational error no such column userprofile Profile App part 5 - fix needed to migrate but I don't think Chris did??
 
-16. country field label appearing in form - fix - lines 33/34 of forms.py (profile) were not indented self.filds etc
+16. country field label appearing in form - fix - lines 33/34 of forms.py (profile) were not indented self.fields etc
 
 17. operational error at bad/add/14 database is locked - just waited - maybe still loading
 
