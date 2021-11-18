@@ -58,3 +58,4 @@ payment went through but wh/bad request - export keys??
 
 21. deployment part 2 
 ![](screenshots/deployment_error.png)
+May be unrelated but just had to connect to deploy auto from github. Procfile was in wrong directory
